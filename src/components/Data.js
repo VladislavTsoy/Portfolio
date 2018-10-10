@@ -16,7 +16,7 @@ const sep = [
         description: "Back-end: NodeJS, ExpressJS, MongoDB, Mongoose, GraphQL - Front-end: ReactJS, Redux, Apollo, Material-UI - MP3 Source: AWS S3.",
         imgUrl: music,
         date: "9 - 2018",
-        link: null
+        link: "music-stream-app.herokuapp.com/"
     },
     {
         title: "NBA Daily",
